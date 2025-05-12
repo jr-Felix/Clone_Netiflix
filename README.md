@@ -13,7 +13,7 @@ Você pode visualizar o projeto online aqui: (https://bya123bya.github.io/Netfli
 
 ## 📷 Imagem do projeto
 
-![Screenshot do Clone da Netflix](https://github.com/bya123bya/Netflix-clone/blob/45b3c5e57a148248eaa08720bf9248c5fbc51f27/print%20netlfix.png)
+![Screenshot do Clone da Netflix](https://github.com/jr-Felix/Clone_Netiflix/blob/c5413f81d18ad8028b17cfd9fbae9bb5e5ee5f5d/print%20netflix.png)
 
 ## 🛠️ Funcionalidades
 
