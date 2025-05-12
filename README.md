@@ -3,7 +3,7 @@
 Este é o meu primeiro projeto publicado no GitHub! Um clone da interface da Netflix, criado com HTML, CSS e JavaScript, com foco em praticar estruturação de páginas, responsividade e efeitos visuais.
 ## 🔗 Acesse o projeto
 
-Você pode visualizar o projeto online aqui: (https://jr-felix.github.io/Clone_Netiflix/)
+Você pode visualizar o projeto online aqui: (https://bya123bya.github.io/Netflix-clone/)
 
 ## 🚀 Tecnologias utilizadas
 
@@ -13,7 +13,7 @@ Você pode visualizar o projeto online aqui: (https://jr-felix.github.io/Clone_N
 
 ## 📷 Imagem do projeto
 
-![Screenshot do Clone da Netflix] (https://github.com/jr-Felix/Clone_Netiflix/blob/85f0e6d53722356ee63e509b539a7ef6be5a1b24/print%20netflix.png)
+![Screenshot do Clone da Netflix](https://github.com/bya123bya/Netflix-clone/blob/45b3c5e57a148248eaa08720bf9248c5fbc51f27/print%20netlfix.png)
 
 ## 🛠️ Funcionalidades
 
