@@ -13,7 +13,7 @@ Você pode visualizar o projeto online aqui: (https://jr-felix.github.io/Clone_N
 
 ## 📷 Imagem do projeto
 
-![Screenshot do Clone da Netflix](https://github.com/jr-Felix/Clone_Netiflix/blob/85f0e6d53722356ee63e509b539a7ef6be5a1b24/print%20netflix.png)
+![Screenshot do Clone da Netflix] (https://github.com/jr-Felix/Clone_Netiflix/blob/85f0e6d53722356ee63e509b539a7ef6be5a1b24/print%20netflix.png)
 
 ## 🛠️ Funcionalidades
 
